@@ -1,0 +1,63 @@
+COMPLETE PROJECT STRUCTURE
+hotel-management/
+│
+├── backend/
+│   │
+│   ├── application/
+│   │   ├── config/
+│   │   │   ├── autoload.php
+│   │   │   ├── config.php
+│   │   │   ├── database.php
+│   │   │   └── routes.php
+│   │   │
+│   │   ├── controllers/
+│   │   │   ├── Login.php
+│   │   │   ├── Dashboard.php
+│   │   │   ├── Booking.php
+│   │   │   └── Customer.php
+│   │   │
+│   │   ├── models/
+│   │   │   ├── User_model.php
+│   │   │   ├── Booking_model.php
+│   │   │   └── Customer_model.php
+│   │   │
+│   │   ├── core/
+│   │   ├── helpers/
+│   │   └── libraries/
+│   │
+│   ├── system/
+│   │   └── (CodeIgniter core files)
+│   │
+│   ├── index.php
+│   ├── .htaccess
+│   └── database.sql
+│
+│
+├── frontend/
+│   │
+│   ├── views/
+│   │   ├── login.php
+│   │   ├── dashboard.php
+│   │   ├── booking.php
+│   │   └── customer.php
+│   │
+│   ├── assets/
+│   │   ├── css/
+│   │   │   ├── style.css
+│   │   │   └── bootstrap.min.css
+│   │   │
+│   │   ├── js/
+│   │   │   ├── script.js
+│   │   │   └── jquery.min.js
+│   │   │
+│   │   ├── img/
+│   │   │   └── (images)
+│   │   │
+│   │   └── fonts/
+│   │
+│   └── index.html
+│
+│
+└── README.md
+
+
