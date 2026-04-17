@@ -11,67 +11,7 @@ This web application is developed with MySQL, PHP, Codeigniter, jQuery
 <img width="1349" height="912" alt="image" src="https://github.com/user-attachments/assets/877f0f81-c295-4e24-ac2b-f51f0b4a381c" />
 <img width="1366" height="562" alt="10" src="https://github.com/user-attachments/assets/9e10a7f7-d19f-49aa-9503-a2efd1c9fcb4" />
 
-COMPLETE PROJECT STRUCTURE
-hotel-management/
-│
-├── backend/
-│   │
-│   ├── application/
-│   │   ├── config/
-│   │   │   ├── autoload.php
-│   │   │   ├── config.php
-│   │   │   ├── database.php
-│   │   │   └── routes.php
-│   │   │
-│   │   ├── controllers/
-│   │   │   ├── Login.php
-│   │   │   ├── Dashboard.php
-│   │   │   ├── Booking.php
-│   │   │   └── Customer.php
-│   │   │
-│   │   ├── models/
-│   │   │   ├── User_model.php
-│   │   │   ├── Booking_model.php
-│   │   │   └── Customer_model.php
-│   │   │
-│   │   ├── core/
-│   │   ├── helpers/
-│   │   └── libraries/
-│   │
-│   ├── system/
-│   │   └── (CodeIgniter core files)
-│   │
-│   ├── index.php
-│   ├── .htaccess
-│   └── database.sql
-│
-│
-├── frontend/
-│   │
-│   ├── views/
-│   │   ├── login.php
-│   │   ├── dashboard.php
-│   │   ├── booking.php
-│   │   └── customer.php
-│   │
-│   ├── assets/
-│   │   ├── css/
-│   │   │   ├── style.css
-│   │   │   └── bootstrap.min.css
-│   │   │
-│   │   ├── js/
-│   │   │   ├── script.js
-│   │   │   └── jquery.min.js
-│   │   │
-│   │   ├── img/
-│   │   │   └── (images)
-│   │   │
-│   │   └── fonts/
-│   │
-│   └── index.html
-│
-│
-└── README.md
+
 
 
 
